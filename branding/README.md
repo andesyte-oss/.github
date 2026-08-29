@@ -1,10 +1,10 @@
-# Foundation Machines branding
+# Andesyte branding
 
-Source assets and exports for the Foundation Machines visual identity.
+Source assets and exports for the Andesyte visual identity.
 
 ## Mark
 
-The mark is a stylised "M" formed by two opposing right triangles that meet along a diagonal split. It reads as a chevron and as the letter M, and it is meant to feel like a stamp or foundry mark.
+The mark is the Andesyte T7 squat octahedron: four facets meeting at an offset front point. It is used upright and must not be rotated 45°.
 
 | File                     | Use                                                     |
 | ------------------------ | ------------------------------------------------------- |
@@ -25,7 +25,7 @@ The mark is a stylised "M" formed by two opposing right triangles that meet alon
 
 ## Typography
 
-Wordmark uses the system UI sans stack (`-apple-system`, `BlinkMacSystemFont`, Inter, Helvetica Neue) at semibold (600) weight with `-2` letter-spacing.
+Wordmark uses Fraunces 500 in caps with `0.045em` tracking. Outline type before shipping production lockup SVGs.
 
 ## Regenerating PNGs
 
@@ -39,4 +39,4 @@ rsvg-convert -w 1280 -h 640  branding/social-preview.svg -o branding/social-prev
 
 ## Usage
 
-These assets are published as part of the Foundation Machines organisation profile. They identify the Foundation Machines brand and may not be used to imply endorsement, partnership, or affiliation without permission. For brand or partnership questions, contact hello@foundationmachines.com.
+These assets are published as part of the Andesyte organisation profile. They identify the Andesyte brand and may not be used to imply endorsement, partnership, or affiliation without permission. For brand or partnership questions, contact hello@foundationmachines.com.

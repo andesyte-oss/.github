@@ -1,5 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <rect fill="#f5efe3" width="24" height="24"/>
-  <path fill="#1a1612" d="M18.36 5.64 L18.36 17.30 L6.70 5.64 Z"/>
-  <path fill="#1a1612" d="M5.64 6.70 L17.30 18.36 L5.64 18.36 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-label="Andesyte">
+  <title>Andesyte</title>
+  <rect width="24" height="24" fill="#f5efe3"/>
+  <g fill="#1a1612">
+    <path opacity=".16" d="M12 3 L3 12 L12 14.7 Z"/>
+    <path opacity=".42" d="M12 3 L21 12 L12 14.7 Z"/>
+    <path opacity=".42" d="M12 21 L3 12 L12 14.7 Z"/>
+    <path d="M12 21 L21 12 L12 14.7 Z"/>
+  </g>
 </svg>
