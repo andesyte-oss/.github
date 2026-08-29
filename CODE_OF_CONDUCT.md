@@ -2,7 +2,7 @@
 
 ## Our standard
 
-Foundation Machines is committed to a respectful, professional environment for everyone who contributes to or uses our projects, regardless of background, experience level, or identity.
+Andesyte is committed to a respectful, professional environment for everyone who contributes to or uses our projects, regardless of background, experience level, or identity.
 
 We expect contributors to:
 
@@ -20,7 +20,7 @@ We will not tolerate:
 
 ## Scope
 
-This applies to all spaces operated by Foundation Machines: GitHub repositories, issue trackers, pull requests, discussions, and any official communication channels.
+This applies to all spaces operated by Andesyte: GitHub repositories, issue trackers, pull requests, discussions, and any official communication channels.
 
 ## Enforcement
 

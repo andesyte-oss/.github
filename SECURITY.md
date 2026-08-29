@@ -1,6 +1,6 @@
 # Security policy
 
-Foundation Machines builds security tooling, so we take vulnerabilities in our own code seriously.
+Andesyte builds security tooling, so we take vulnerabilities in our own code seriously.
 
 ## Reporting a vulnerability
 
@@ -20,8 +20,8 @@ If you prefer encrypted communication, request our PGP key in your initial email
 
 In scope:
 
-- Source code in repositories owned by the `foundationmachines` GitHub organization.
-- The Sebastion AI GitHub App (https://github.com/apps/sebastionai) and its production endpoints.
+- Source code in repositories owned by the `andesyte-oss` GitHub organization.
+- The Sebastion AI GitHub App (https://github.com/apps/sebastion-code-security) and its production endpoints.
 - foundationmachines.ai and any subdomains we operate.
 
 Out of scope:

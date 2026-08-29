@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to file a bug report. For security vulnerabilities, please follow the [security policy](https://github.com/foundationmachines/.github/blob/main/SECURITY.md) instead.
+        Thanks for taking the time to file a bug report. For security vulnerabilities, please follow the [security policy](https://github.com/andesyte-oss/.github/blob/main/SECURITY.md) instead.
   - type: textarea
     id: summary
     attributes:

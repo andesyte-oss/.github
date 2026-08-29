@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640">
   <rect fill="#1a1612" width="1280" height="640"/>
-  <g transform="translate(540 165) scale(8.4)">
-    <path fill="#f5efe3" d="M18.36 5.64 L18.36 17.30 L6.70 5.64 Z"/>
-    <path fill="#f5efe3" d="M5.64 6.70 L17.30 18.36 L5.64 18.36 Z"/>
+  <g transform="translate(540 165) scale(8.4)" fill="#f5efe3">
+    <path opacity=".16" d="M12 3 L3 12 L12 14.7 Z"/>
+    <path opacity=".42" d="M12 3 L21 12 L12 14.7 Z"/>
+    <path opacity=".42" d="M12 21 L3 12 L12 14.7 Z"/>
+    <path d="M12 21 L21 12 L12 14.7 Z"/>
   </g>
-  <text x="640" y="430" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="74" font-weight="600" fill="#f5efe3" letter-spacing="-2">Foundation Machines</text>
+  <text x="640" y="430" text-anchor="middle" font-family="Fraunces, Georgia, serif" font-size="84" font-weight="500" fill="#f5efe3" letter-spacing="3.8">ANDESYTE</text>
   <text x="640" y="490" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#a39689" letter-spacing="-0.3">Specialist autonomous agents for engineering work.</text>
 </svg>

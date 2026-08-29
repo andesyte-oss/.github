@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in contributing to a Foundation Machines project.
+Thanks for your interest in contributing to an Andesyte project.
 
 This file applies organization-wide. Individual repositories may add their own `CONTRIBUTING.md` with project-specific guidance, which takes precedence.
 
